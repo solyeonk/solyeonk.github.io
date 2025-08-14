@@ -3,10 +3,10 @@ navbar_entries:
     url: about
 
   - title: blog
-    url: blog
+    url: https://chachakwon.tistory.com/
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Linkedin
+    url: https://www.linkedin.com/in/solyeon-kwon-72aa97181/
 
 project_entries:
   - title: Project 1
